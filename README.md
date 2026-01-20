@@ -79,7 +79,7 @@ Procuramos as seguintes qualidades:
 
 2.  **Clone o repositório**:
     ```bash
-    git clone https://github.com/...
+    git clone https://github.com/GCandid07/Nutrition-Dashboard-Challenge.git
     ```
 
 3.  **Instale as dependências**:
@@ -109,6 +109,6 @@ Procuramos as seguintes qualidades:
 
 ## 📞 Contato
 
-- Email: email@ecowe.com.br
+- Email: thiago.rodrigues@ecowe.com.br
 
 Boa sorte! 🚀
