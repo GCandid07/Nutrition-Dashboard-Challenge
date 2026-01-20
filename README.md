@@ -1,4 +1,4 @@
-# 🧪 Desafio Técnico — Frontend Engineer (Pleno/Sênior)
+# 🧪 Desafio Técnico — Frontend
 
 Bem-vindo! Este repositório é o ponto de partida para o seu desafio técnico.
 Nós preparamos a estrutura base (Next.js, Tailwind, TypeScript) e uma **Mock API** funcional para que você possa focar em construir o Frontend.
